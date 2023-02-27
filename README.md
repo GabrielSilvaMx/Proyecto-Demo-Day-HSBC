@@ -6,13 +6,13 @@ Este repositorio tiene como objetivo presentar el proyecto final desarrollado co
 
 ## Entregables
 
-| Tema | Descripción |
-|-|-|
-| Descripción del proyecto | [**`Agilidad`**](./agilidad) |
-| Repositorio Spring Boot API REST Kanban ODS | [**`API REST Kanban ODS`**](https://github.com/GabrielSilvaMx/ODS) |
-| Repositorio Angular Kanban ODS  | [**`Angular Kanban ODS`**](https://github.com/GabrielSilvaMx/kanbanODS) |
-| Pruebas unitarias y Coverage | [**`Testing`**](./Testing) |
-| Terraform e Implementación en Azure | [**`Deployment`**](./Deployment) |
+| Tema                                        | Descripción                                                              |
+|---------------------------------------------|--------------------------------------------------------------------------|
+| Descripción del proyecto                    | [**`Agilidad`**](./agilidad)                                             |
+| Repositorio Spring Boot API REST Kanban ODS | [**`API REST Kanban ODS`**](https://github.com/GabrielSilvaMx/ODS)       |
+| Repositorio Angular Kanban ODS              | [**`Angular Kanban ODS`**](https://github.com/GabrielSilvaMx/kanbanODS)  |
+| Pruebas unitarias y Coverage                | [**`Testing`**](./Testing)                                               |
+| Terraform e Implementación en Azure         | [**`Deployment`**](./Deployment)                                         |
 
 
 ---

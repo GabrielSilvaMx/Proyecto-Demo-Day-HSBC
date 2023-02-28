@@ -19,7 +19,7 @@ Este repositorio tiene como objetivo presentar el proyecto final desarrollado co
 
 ## Aplicación en producción
 
-**API REST con Spring Boot:**  [API REST Kanban](https://java-odsapi-14633.azurewebsites.net)
+**API REST con Spring Boot:**  [API REST Kanban](https://kanban-ods.azurewebsites.net)
 
 
 *ROL: MANAGER*
